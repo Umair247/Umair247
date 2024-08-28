@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web developing
 - 💞️ I’m looking to collaborate on coding 
-- 📫 How to reach me contact me at contactumair24@gmail.com
+- 📫 How to reach me contact me at abc123@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
